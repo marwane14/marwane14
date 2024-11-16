@@ -10,7 +10,7 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/CEH-Preparation%20in%20Progress-brightgreen?style=for-the-badge" alt="CEH"/> 
   <img src="https://img.shields.io/badge/OSCP-Dream-orange?style=for-the-badge" alt="OSCP"/> 
-  <img src="https://img.shields.io/badge/Advanced%20Pentesting-Learning-blue?style=for-the-badge" alt="Advanced Pentesting"/> 
+   <img src="https://img.shields.io/badge/CISSP-Future%20Goal-blue?style=for-the-badge" alt="CISSP"/> 
 </p>
 
 
