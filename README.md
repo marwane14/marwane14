@@ -32,8 +32,6 @@
 
 ### 🔥 Featured Projects:
 - [**Write It**](https://github.com/marwane14/Write-it): Educational game for improving writing skills.
-- [**Pentesting Toolkit**](https://github.com/marwane14/PentestingToolkit): Scripts and tools for ethical hacking.
-- [**IoT Security Simulator**](https://github.com/marwane14/IoT-Security-Simulator): Testing embedded systems vulnerabilities.
 
 
 ---
