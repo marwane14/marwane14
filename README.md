@@ -5,6 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/CCT-In%20Progress-blue" alt="CCT"/> 
 </p>
+
 ### 🌟 Future Goals:
 <p align="center">
   <img src="https://img.shields.io/badge/CEH-Preparation%20in%20Progress-brightgreen?style=for-the-badge" alt="CEH"/> 
@@ -28,6 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marwane14&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=marwane14&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
+
 ### 🔥 Featured Projects:
 - [**Write It**](https://github.com/marwane14/Write-it): Educational game for improving writing skills.
 - [**Pentesting Toolkit**](https://github.com/marwane14/PentestingToolkit): Scripts and tools for ethical hacking.
