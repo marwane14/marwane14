@@ -38,14 +38,10 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>  
 </p>  
 
----
-
 ## 📊 Statistiques GitHub :  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=marwane14&show_icons=true&theme=radical" alt="Statistiques GitHub"/>  
   <img src="https://streak-stats.demolab.com?user=marwane14&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>  
 </p>  
-
----
 
 [![](https://visitcount.itsvg.in/api?id=marwane14&icon=0&color=0)](https://visitcount.itsvg.in)
