@@ -9,14 +9,10 @@
 
 💡 **Interrogez-moi sur** : Mon mélange de technologies, créativité, et projets pratiques, allant du développement de jeux à l'électronique sur mesure.  
 
----
-
 ## 🌟 Objectifs pour 2025 :  
 <p align="center">  
   <img src="https://img.shields.io/badge/CCT-En%20cours-blue" alt="CCT"/>  
 </p>  
-
----
 
 ## 🌟 Objectifs futurs :  
 <p align="center">  
@@ -25,16 +21,12 @@
   <img src="https://img.shields.io/badge/CISSP-Objectif%20futur-blue?style=for-the-badge" alt="CISSP"/>  
 </p>  
 
----
-
 ## 🌐 Réseaux sociaux :  
 <p align="center">  
   <a href="https://linkedin.com/in/marwane-eljaafari">  
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">  
   </a>  
 </p>  
-
----
 
 ## 💻 Technologies utilisées :  
 <p align="center">  
