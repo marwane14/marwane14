@@ -1,4 +1,5 @@
 💫 À propos de moi :
+
 🚀 Actuelement : Apprenti chez CIS Amrein, où j'améliore les systèmes de capteurs industriels pour des environnements critiques.
 
 🤝 Collaborons sur : Des projets en cybersécurité ou automatisme qui repoussent les limites technologiques.
