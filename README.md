@@ -1,15 +1,6 @@
 ## 👨‍💻 About Me
 
-I am a Cybersecurity & Systems Infrastructure Engineering student at **ESIEA**. Driven by a strong work ethic and strict discipline, I approach technical challenges with a pragmatic, performance-oriented mindset. 
-
-### ⚙️ My Approach to Cybersecurity
-I believe that technical excellence is the result of strict discipline, adaptability, and hands-on execution.
-* **Practical Problem-Solving:** I don't give up when a system breaks. I dig into the documentation, research, and test in isolated environments until I fully grasp the underlying mechanics.
-* **Hands-on Execution:** I spend my free time building, breaking, and securing architectures in my Home Lab. I prioritize clean execution, automation, and continuous improvement.
-* **Continuous Learning:** The threat landscape evolves rapidly. I am constantly stepping out of my comfort zone to independently master new tools, systems, and security paradigms.
-
----
-> *"Don't stop when you're tired. Stop when you're done."*
+I am a Cybersecurity & Systems Infrastructure Engineering student at **ESIEA**. Driven by a strong work ethic and strict discipline. 
 
 ## 🧩 Technologies & Home Lab Environment
 
